@@ -1,0 +1,13 @@
+body{
+    background-image: url('TEXT1.JPG');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    color:rgb(36, 33, 35);
+}
+h3{
+    color:rgb(54, 49, 61);
+}
